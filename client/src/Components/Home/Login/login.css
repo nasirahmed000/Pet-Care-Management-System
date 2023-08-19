@@ -1,0 +1,15 @@
+.loginn{
+    border:1px solid #808080;
+    margin:5px;
+    padding:15px;
+    margin-top:20px;
+    border-radius:40px;
+    background-color:#e2a5a5;
+    border:none;
+    color:white;
+    transition: 0.3s;
+}
+.loginn:hover{
+    cursor: pointer;
+    background-color: cadetblue;
+}
