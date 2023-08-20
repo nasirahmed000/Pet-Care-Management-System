@@ -18,10 +18,10 @@ const Footer = () => {
                                 <p><i class="fa fa-phone-alt mr-2"></i>+8801611911079</p>
                                 <p><i class="fa fa-envelope mr-2"></i>petlover@gmail.com</p>
                                 <div class="d-flex justify-content-start mt-4">
-                                    <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" href="/"><i class="fab fa-twitter p-2"></i></a>
-                                    <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" href="/"><i class="fab fa-facebook-f p-2"></i></a>
-                                    <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" href="/"><i class="fab fa-linkedin-in p-2"></i></a>
-                                    <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" href="/"><i class="fab fa-instagram p-2"></i></a>
+                                    <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" href="https://twitter.com/nasirahmed000"><i class="fab fa-twitter p-2"></i></a>
+                                    <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" href="https://www.facebook.com/nasirahmed000000"><i class="fab fa-facebook-f p-2"></i></a>
+                                    <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" href="https://www.linkedin.com/in/nasirahmed000/"><i class="fab fa-linkedin-in p-2"></i></a>
+                                    <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" href="https://www.instagram.com/nasirahmed000/"><i class="fab fa-instagram p-2"></i></a>
                                 </div>
                             </div>
                             <div class="col-md-6 mb-5">
