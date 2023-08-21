@@ -3,6 +3,7 @@ import cat2 from '../../../Images/carousel-2.jpg'
 import cat3 from '../../../Images/groom.png'
 import dog from '../../../Images/dog.jpg'
 import dog2 from '../../../Images/dog2.jpg'
+import Dog3 from '../../../Images/Dog3.jpeg'
 
 export const Array=[
     {
@@ -34,5 +35,11 @@ export const Array=[
         title:'Training Your Canine Companion for Hunting: A Comprehensive Guide',
         desc:'Hunting alongside a well-trained dog can elevate the experience, and the process of preparing your canine companion for this purpose is both fascinating and rewarding. To embark on this journey, the initial step involves selecting the appropriate breed, considering their inherent abilities and instincts. Early training is essential, as young dogs are more receptive to learning.Socialization is crucial; introducing your dog to diverse environments, people, and animals minimizes distractions and anxiety. Gradually acquaint your dog with various scents, from food to outdoor elements, fostering their olfactory skills—a vital aspect of hunting. Retrieval training is equally significant; start with toys and progress to retrieving objects that simulate hunting scenarios. Introduce your dog to the sound of gunshots progressively, creating positive associations to reduce anxiety.To simulate hunting situations, engage in mock hunts, reinforcing commands like in dynamic environments. If tracking is involved in your hunting style, teach your dog to follow scent trails, initially using treats. Employ consistent positive reinforcement techniques—praise, treats, and play—to encourage desired behaviors, avoiding punitive measures that may hinder learning and trust.',
         img: dog2,
-    }
+    },
+    {
+        id:6,
+        title:'The Purr-fect Pampering: The Benefits of Pet Spa for Your Furry Friend',
+        desc:'When it comes to providing our cherished pets with the ultimate care, the allure of the pet spa experience is undeniable. Just as humans indulge in spa days for relaxation and rejuvenation, our four-legged companions can also revel in the benefits of a pet spa. In this blog, we ll delve into the myriad advantages that pet spas offer, showcasing how they contribute to the holistic well-being of our beloved furry family members.At the heart of the pet spa experience lies the profound benefit of stress relief and relaxation. Pet spas create an environment of tranquility, complete with calming scents and gentle techniques that aid in alleviating stress and promoting relaxation. Massages and serene treatments are tailored to help pets unwind, fostering an atmosphere of harmony and inner calm.Beyond relaxation, pet spas offer substantial advantages for skin and coat health. These specialized havens of care utilize tailor-made shampoos, conditioners, and treatments to address concerns like dry skin, dandruff, and tangles. This not only enhances the aesthetic appeal of your pet but also nurtures their overall physical wellness.The holistic benefits of pet spas extend to detoxification and improved circulation. Techniques employed in pet spas enhance blood flow, aiding in toxin elimination and promoting overall health. Particularly beneficial for pets with joint discomfort or muscle tension, hydrotherapy offers gentle exercise and soothing relief within a watery embrace. The meticulous attention given to nail and paw care is another remarkable facet of the pet spa experience. Grooming professionals adeptly trim nails, ensuring your pets comfort and safety. Additionally,treatments moisturize paw pads, leaving them soft, protected, and ready for new adventures.Amidst the aesthetic enhancements, pet spas offer a pivotal advantage in hygiene and odor management. Regular grooming sessions address odor concerns and uphold cleanliness, as specialized treatments target bacteria responsible for unwanted scents. This results in a pet that exudes freshness and cleanliness.Yet, a visit to the pet spa is more than a grooming ritual a bonding opportunity. As you and your cherished pet relish in the tranquility, an unbreakable bond forms, fostering lasting memories and a sense of togetherness.',
+        img: Dog3,
+    },
 ]

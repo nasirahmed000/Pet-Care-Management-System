@@ -53,7 +53,7 @@ const Services = () => {
                                         <img style={{height:'120px',width:'120px'}} src={service.img} class="card-img-top rounded mx-auto d-block mt-2" alt="..."/>
                                         <div class="card-body">
                                             <h4 class="card-title">{service.name}</h4>
-                                            <h3>${service.price}</h3>
+                                            <h3>Tk.{service.price}</h3>
                                             <p class="card-text">{service.description}</p>
                                         </div>
                                     </div>

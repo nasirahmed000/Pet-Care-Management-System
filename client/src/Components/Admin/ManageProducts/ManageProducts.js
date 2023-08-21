@@ -52,7 +52,7 @@ const ManageProducts = () => {
                       return(
                        <tr>
                         <td >{service.name}</td>
-                        <td>${service.price}</td>
+                        <td>Tk.{service.price}</td>
                         <td><button className='btn btn-danger' onClick={(event)=>handleDelete(service._id,event)}>Delete</button></td>
                       </tr>
                       )
