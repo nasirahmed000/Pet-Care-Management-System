@@ -8,12 +8,27 @@ const ObjectId=require('mongodb').ObjectId;
 
 const app=express();
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors(
+  {
+    origin:["https://pet-care-management-system.vercel.app"],
+      methods:["POST","GET"],
+  credentials : true
+}
+
+));
+
+mongoose.connect('mongodb+srv://nasirahmed:n7ylZAdf2I8DsHt4@cluster0.l30i1xb.mongodb.net/PetLover?retryWrites=true&w=majority');
+
+
+
 
 const PORT=5000;
 
 const uri=process.env.MONGO_URI
 const client = new MongoClient(uri, {useNewUrlParser: true, useUnifiedTopology: true });
+
+
+
 
   app.post('/addServices',async(req,res)=>{
       const serviceCollection = client.db("PetLover").collection("Services");
